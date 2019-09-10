@@ -1,2 +1,5 @@
 This is a file to test whether everyone can access and change things using github.
 Hope this works!!!!!
+
+hey Brodie here dont be alarmed if you see some 1 named slurgen as its probly me
+all i did was clicked on branch and fork to get to this point hope it works when i push it!
